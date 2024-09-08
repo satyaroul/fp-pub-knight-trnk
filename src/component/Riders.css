@@ -1,0 +1,57 @@
+.container{
+    background-image: url(../../image/rouhalla-shabir-YTDt3C6CGVA-unsplash.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-size: 45px;
+    padding-top: 10vh;
+    padding-bottom: 3vh;
+    padding-left: 5.5vh;
+}
+
+h2{
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    padding-left: 5.5vh;
+    padding-top: 6vh;
+    padding-bottom: 14vh;
+}
+
+p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: white;
+    padding-left: 5.5vh;
+    padding-right: 35rem;
+}
+
+.navbar{
+    display: flex;
+}
+
+.faq-container{
+    background-image: url(../../image/noufal-tariq-QjiF9vJi_aY-unsplash.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 2rem;
+}
+
+.gallery-container{
+    background-image: url(../../image/ishan-jain-d9ZB6r_Q3n4-unsplash.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 2rem;
+}
